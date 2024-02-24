@@ -1,2 +1,2 @@
-# RAG-to-chat-with-PDFs
-Development of a Retrieval-Augmented Generation (RAG) Based Search Tool
+# LLM-to-Chat-with-Multiple-PDF-s
+Chat With Multiple PDF Documents With Langchain And Google Gemini Pro #genai #googlegemini
