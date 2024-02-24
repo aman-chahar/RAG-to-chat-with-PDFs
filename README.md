@@ -3,7 +3,9 @@ End to End AI Project to Chat With Multiple PDF Documents using Langchain, Googl
 
 Streamlit web app to chat with PDFs: https://rag-to-chat-with-pdfs-pebup6bxo7kpx2bzdfajnq.streamlit.app/
 
-This code is a Streamlit web application designed to interactively analyze and answer questions based on text extracted from PDF files using Google Generative AI (Gemini) and a conversational question-answering model. Let's break down the code step by step:
+This code is a Streamlit web application designed to interactively analyze and answer questions based on text extracted from PDF files using Google Generative AI (Gemini) and a conversational question-answering model.
+
+**Code step by step:**
 
 1. **Imports**: 
     - `streamlit`: Library for creating interactive web applications.
