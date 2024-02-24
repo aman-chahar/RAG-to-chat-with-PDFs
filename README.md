@@ -14,6 +14,6 @@ langchain -- to read pdf.
 
 PyPDF2 -- to read pdf.
 
-faiss-cpu -- to quickly search for embeddings of multimedia documents.
+faiss-cpu --  for vector embeddings of multimedia documents.
 
 langchain_google_genai -- to use Google API Key with he help Langchain.
