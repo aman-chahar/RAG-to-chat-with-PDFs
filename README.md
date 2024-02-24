@@ -1,5 +1,6 @@
 # LLM-to-Chat-with-Multiple-PDF-s
-Chat With Multiple PDF Documents With Langchain And Google Gemini Pro
+End to End AI Project to Chat With Multiple PDF Documents using Langchain, Google Gemini, and Streamlit.
+
 Streamlit web app to chat with PDFs: https://rag-to-chat-with-pdfs-pebup6bxo7kpx2bzdfajnq.streamlit.app/
 
 **Required libraries:**
