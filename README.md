@@ -39,3 +39,6 @@ This code is a Streamlit web application designed to interactively analyze and a
         
 5. **Execution**:
     - `if __name__ == "__main__": main()`: Executes the `main()` function if the script is run directly.
+  
+ 
+=> Used ChatGpt to remove errors and modify code.
